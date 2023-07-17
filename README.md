@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShot
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/saymanrifat/orientation_responsive_app/main/Screenshot_20230717_204730.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/saymanrifat/orientation_responsive_app/main/Screenshot_20230717_204758.png" width="400" height="200" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
